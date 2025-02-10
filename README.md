@@ -1,4 +1,4 @@
-![Pandaly]([https://example.com/cute-cat.jpg](https://github.com/PandalyLab/Security-HandBook/blob/main/image.png))
+![Pandaly](https://github.com/PandalyLab/Security-HandBook/blob/main/image.png)
 ## 本手册包含：
 ✅ 区块链与加密货币基础 —— 帮助你理解区块链技术、代币分类、公私钥管理、钱包使用等核心概念。
 
